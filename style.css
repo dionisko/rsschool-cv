@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
   }
+  #header {
+
+  }
 body {
     background: #D3CFBF;
     font-family: 'Kanit', sans-serif;
@@ -8,6 +11,11 @@ body {
     flex-direction: column;
     justify-content: space-between;
 }
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
 
 a {color: #185996; }
 a:hover, a:focus {color: #D6A037; }
