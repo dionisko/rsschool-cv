@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dionisko.github.io/rsschool-cv/
