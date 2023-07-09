@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
 .header {
-
+    background-color: #D6A037;
   }
 body {
     background: #D3CFBF;
@@ -10,7 +10,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.4;
-  color: #18e018ab;
+  color: #610c0cab;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -27,6 +27,9 @@ html {
 
   .nav-list {
     list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
   }
   .nav-link {
     padding: 0 20px;
