@@ -35,8 +35,9 @@ html {
     padding: 0 20px;
     line-height: 50px;
     transition: .3s;
+    text-decoration: none;
   }
-  .nav-link:hover, .nav-link:focus {color: #D6A037; } 
+  .nav-link:hover, .nav-link:focus {color: #3747d6; } 
   .nav-link:visited {color: #44515d; }
 
   .main-container {
