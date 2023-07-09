@@ -4,6 +4,9 @@
 body {
     background: #D3CFBF;
     font-family: 'Kanit', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 a {color: #185996; }
